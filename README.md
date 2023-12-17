@@ -1,4 +1,3 @@
-```markdown
 # House-GAN: Automated Floor Plan Generation using Generative Adversarial Networks
 
 ## Overview
@@ -65,17 +64,20 @@ We acknowledge the support of Pillai College of Engineering (Autonomous), Navi M
 
 ## References
 
-- [Reference 1]
-- [Reference 2]
-- [Reference 3]
-- [Reference 4]
-- [Reference 5]
-- [Reference 6]
-- [Reference 7]
-- [Reference 8]
-- [Reference 9]
-- [Reference 10]
-- [Reference 11]
+1.	Y. LeCun and Y. Bengio, “Convolutional networks for images, speech, and time series,” in The Handbook of Brain Theory and Neural Networks, 2nd ed., M. A. Arbib, Ed., MIT Press, 2003, pp. 255-258.
+2.	M. Mirza and S. Osindero, “Conditional generative adversarial nets,” arXiv preprint arXiv:1411.1784, 2014.
+3.	I. J. Goodfellow et al., “Generative adversarial networks,” in Advances in Neural Information Processing Systems 27, Z. Ghahramani, M. Welling, C. Cortes, N. D. Lawrence and K. Q. Weinberger, Eds., Curran Associates, Inc., 2014, pp. 2672-2680.
+4.	X. Chen et al., “InfoGAN: Interpretable representation learning by information maximizing generative adversarial nets,” in Advances in Neural Information Processing Systems 29, D. D. Lee, M. Sugiyama, U. V. Luxburg, I. Guyon and R. Garnett, Eds., Curran Associates, 
+    Inc., 2016, pp. 2172-2180.
+5.	C. Liu*,* J. Wu*,* P. Kohli*,* and Y. Furukawa, “Conv-MPN: Convolutional message passing neural network for structured outdoor architecture reconstruction,” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018, pp. 962-971.
+6.	J. Kang and S. Cho, “A machine learning approach to artificial floorplan generation,” Proceedings of the 24th International Conference on Intelligent User Interfaces, 2019, pp. 379-389.
+7.	N. Nauata, K. Chang, G. Mori and Y. Furukawa, “House-GAN: Relational generative adversarial networks for graph-constrained house layout generation,” European Conference on Computer Vision, Springer, 2020, pp. 169-185.
+8.	S. Khanzadeh Mollaei and A. H. Gandomi, “Artificial intelligence and smart vision for building and construction 4.0: Machine and deep learning methods and applications,” Automation in Construction, vol. 120, 2020, p. 103388.
+9.	S. Sarwar and M. R. Islam, “Generating synthetic medical images by using GAN to improve CNN performance in skin cancer classification,” 2020 IEEE International Conference on Informatics, IoT*,* and Enabling Technologies (ICIoT), IEEE*,* 2020, pp. 1-6.
+10.	A. Khan, A. Sohail, U. Zahoora and A. S. Qureshi, “A survey of the recent architectures of deep convolutional   neural networks,” Artificial Intelligence Review, vol. 53, no. 8, pp. 5455-5516, Aug. 2020.
+11.	M. Bronstein, “Beyond Message Passing, a Physics-Inspired Paradigm for Graph Neural Networks,” The Gradient, 2022. https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/. Accessed on: Mar. 02, 2023.
 
-Feel free to explore the code and contribute to the project. For any inquiries, contact [Project Maintainer's Email].
-```
+## Research Paper
+
+For more information please read our paper: [IJNRD2303434 - View the paper](https://www.ijnrd.org/papers/IJNRD2303434.pdf)
+
