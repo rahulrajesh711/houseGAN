@@ -35,6 +35,8 @@ The system operates as a web-based user interface, where users upload a bubble g
 
 House-GAN uses Generative Adversarial Networks (GANs) to generate realistic floor plans. The model consists of a generator and a discriminator. The generator learns to create floor plans from bubble graphs, while the discriminator distinguishes between real and fake floor plans. The model is trained on a diverse dataset of over 10,000 floor plan images.
 
+ ![ML Block Diagram](images/mlblock.png)
+
 ## `Conv-MPN`
 
 Conv-MPN is a novel approach to Message Passing Neural Networks, utilizing convolution operations for efficient feature aggregation. This technique enhances the expressiveness of graph structures, making it suitable for tasks like floor plan generation.
@@ -54,6 +56,8 @@ The training dataset comprises over 10,000 diverse floor plan images in PNG form
 ## `Results`
 
 The system outputs multiple 2D floor plan iterations based on user input and constraints. The results demonstrate the capability of House-GAN to generate high-quality floor plans comparable to those designed by human experts.
+
+![Output Example](images/output.png)
 
 ## `Conclusion`
 
