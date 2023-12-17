@@ -16,6 +16,8 @@ This repository contains the implementation of House-GAN, a novel approach for a
 - [Usage](#usage)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Research Paper](#research-paper)
+- [Project Report](#project-report)
 - [Acknowledgment](#acknowledgment)
 - [References](#references)
 
