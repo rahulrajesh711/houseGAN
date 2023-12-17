@@ -1,5 +1,4 @@
 *.pth
-*.png
 *.npy
 *.pyc
 *cache*
